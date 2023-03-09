@@ -1,5 +1,5 @@
 <?php
-
+protected $cohort, $cohortid, $file, $examcodeid, $idnumber;
 // UPDATE/INSERT COHORTs
     protected $file;
     protected function insert_examcode_to_new_table(){
